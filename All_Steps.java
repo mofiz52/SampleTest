@@ -15,6 +15,7 @@ public class All_Steps {
 	@Step
 	public void step3() {
 		System.out.println("Step 3 executed");
+		System.out.println("Testing Jenkins");
 	}
 
 }
